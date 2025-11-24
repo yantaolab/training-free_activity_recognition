@@ -1,0 +1,11 @@
+id,name
+0,DeliverObject
+1,MoveBackwardsWhileDrilling
+2,MoveBackwardsWhilePolishing
+3,PickUpDrill
+4,PickUpPolisher
+5,PickUpTheObject
+6,Walking
+7,WalkingWithDrill
+8,WalkingWithObject
+9,WalkingWithPolisher

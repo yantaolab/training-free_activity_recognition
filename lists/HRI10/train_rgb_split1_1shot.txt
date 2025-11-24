@@ -1,0 +1,10 @@
+/home/user/Downloads/worker_intention/HRI10/activity-frame/DeliverObject/v_DeliverObject_g03_c06 45 0
+/home/user/Downloads/worker_intention/HRI10/activity-frame/MoveBackwardsWhileDrilling/v_MoveBackwardsWhileDrilling_g10_c01 41 1
+/home/user/Downloads/worker_intention/HRI10/activity-frame/MoveBackwardsWhilePolishing/v_MoveBackwardsWhilePolishing_g02_c03 45 2
+/home/user/Downloads/worker_intention/HRI10/activity-frame/PickUpDrill/v_PickUpDrill_g08_c02 96 3
+/home/user/Downloads/worker_intention/HRI10/activity-frame/PickUpPolisher/v_PickUpPolisher_g12_c05 91 4
+/home/user/Downloads/worker_intention/HRI10/activity-frame/PickUpTheObject/v_PickUpTheObject_g09_c02 102 5
+/home/user/Downloads/worker_intention/HRI10/activity-frame/Walking/v_Walking_g10_c04 101 6
+/home/user/Downloads/worker_intention/HRI10/activity-frame/WalkingWithDrill/v_WalkingWithDrill_g12_c04 83 7
+/home/user/Downloads/worker_intention/HRI10/activity-frame/WalkingWithObject/v_WalkingWithObject_g01_c01 122 8
+/home/user/Downloads/worker_intention/HRI10/activity-frame/WalkingWithPolisher/v_WalkingWithPolisher_g03_c05 80 9
