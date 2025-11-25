@@ -14,13 +14,13 @@ Run the generate_text_classifier_weights.py script to generate text features.
 Run the run_zs_baseline.py script to test the zero-shot recognition performance.
 
 ## Test the Improved TIP-Adapter Method
-Run the tip_adaper.py script to test the improved TIP-Adapter method for building activity recognition.
+Run the tip_adaper.py script to test the improved TIP-Adapter method for construction activity recognition.
 
 ## Test the Improved TIP-X Method
-Run the tipx.py script to test the improved TIP-X method for building activity recognition.
+Run the tipx.py script to test the improved TIP-X method for construction activity recognition.
 
 ## Test the Proposed Method
-Run the tipx-feed.py script to test the proposed method for building activity recognition.
+Run the tipx-feed.py script to test the proposed method for construction activity recognition.
 
 ## Acknowledgments
 Our code is based on [ActionCLIP](https://github.com/sallymmx/ActionCLIP), [TIP-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [SUS-X](https://github.com/vishaal27/SuS-X).
