@@ -2,7 +2,7 @@
 ![图](https://github.com/user-attachments/assets/a2215d24-171e-429e-bd11-c8550d29e882)
 ## Instructions
 
-Download the pre-trained weights for ActionCLIP(https://github.com/sallymmx/ActionCLIP).
+Download the pre-trained weights for [ActionCLIP](https://github.com/sallymmx/ActionCLIP).
 
 ## Generate Few-Shot Data
 Run the encode_dataset.py script to generate few-shot data.
@@ -23,4 +23,4 @@ Run the tipx.py script to test the improved TIP-X method for building activity r
 Run the tipx-feed.py script to test the proposed method for building activity recognition.
 
 ## Acknowledgments
-Our code is based on ActionCLIP, TIP-Adapter and SUS-X.
+Our code is based on [ActionCLIP](https://github.com/sallymmx/ActionCLIP), [TIP-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [SUS-X](https://github.com/vishaal27/SuS-X).
