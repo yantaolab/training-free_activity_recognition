@@ -8,9 +8,9 @@ Download the dataset according to the video data addresses listed in the lists f
 
 ## Generate Few-Shot Data
 Run 
-'''
+```
 the encode_dataset.py
-''' 
+``` 
 script to generate few-shot data.
 
 ## Generate Text Features
