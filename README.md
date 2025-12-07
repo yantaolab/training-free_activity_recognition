@@ -1,7 +1,7 @@
 # training-free_activity_recognition
 ![图](https://github.com/user-attachments/assets/a2215d24-171e-429e-bd11-c8550d29e882)
 ## Instructions
-Download the pre-trained weights for [ActionCLIP](https://github.com/sallymmx/ActionCLIP).
+Download the pre-trained weights for [ActionCLIP](https://github.com/sallymmx/ActionCLIP). You can refer to the environment configuration in the [ActionCLIP](https://github.com/sallymmx/ActionCLIP) project to set up the Python environment.
 
 ## Download the Dataset
 Download the dataset according to the video data addresses listed in the lists folder. For example, for the HRI10 dataset, the link is [HRI10](https://drive.google.com/drive/folders/1TQSwGIQlfo1-Uu44JJ0K6IZn67gXPu8n?usp=drive_link).
