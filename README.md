@@ -7,7 +7,7 @@ Download the pre-trained weights for [ActionCLIP](https://github.com/sallymmx/Ac
 Download the dataset according to the video data addresses listed in the lists folder. For example, for the HRI10 dataset, the link is [HRI10](https://drive.google.com/drive/folders/1TQSwGIQlfo1-Uu44JJ0K6IZn67gXPu8n?usp=drive_link).
 
 ## Generate Few-Shot Data
-Run the encode_dataset.py script to generate few-shot data.
+Run '''the encode_dataset.py''' script to generate few-shot data.
 
 ## Generate Text Features
 Run the generate_text_classifier_weights.py script to generate text features.
