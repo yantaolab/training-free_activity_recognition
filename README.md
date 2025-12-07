@@ -9,24 +9,44 @@ Download the dataset according to the video data addresses listed in the lists f
 ## Generate Few-Shot Data
 Run 
 ```
-the encode_dataset.py
+python encode_dataset.py
 ``` 
 script to generate few-shot data.
 
 ## Generate Text Features
-Run the generate_text_classifier_weights.py script to generate text features.
+Run 
+```
+python generate_text_classifier_weights.py
+``` 
+ script to generate text features.
 
 ## Test Zero-Shot Recognition
-Run the run_zs_baseline.py script to test the zero-shot recognition performance.
+Run 
+```
+python run_zs_baseline.py
+``` 
+script to test the zero-shot recognition performance.
 
 ## Test the Improved TIP-Adapter Method
-Run the tip_adaper.py script to test the improved TIP-Adapter method for construction activity recognition.
+Run 
+```
+python tip_adaper.py
+``` 
+script to test the improved TIP-Adapter method for construction activity recognition.
 
 ## Test the Improved TIP-X Method
-Run the tipx.py script to test the improved TIP-X method for construction activity recognition.
+Run 
+```
+python tipx.py
+```
+script to test the improved TIP-X method for construction activity recognition.
 
 ## Test the Proposed Method
-Run the tipx-feed.py script to test the proposed method for construction activity recognition.
+Run 
+```
+python tipx-feed.py
+```
+script to test the proposed method for construction activity recognition.
 
 ## Acknowledgments
 Our code is based on [ActionCLIP](https://github.com/sallymmx/ActionCLIP), [TIP-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [SUS-X](https://github.com/vishaal27/SuS-X).
